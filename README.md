@@ -1,2 +1,3 @@
 # hello-word
-just another repository
+
+This is my first time to write a gitup.
